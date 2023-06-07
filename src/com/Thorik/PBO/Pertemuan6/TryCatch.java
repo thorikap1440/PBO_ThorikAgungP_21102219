@@ -8,7 +8,7 @@ public class TryCatch {
                 1,2,3,4,5
         };
 
-        System.out.println("Index ke 4 ada : ");
+        System.out.print("Index ke 4 ada : ");
         try {
             // memanggil array berdasarkan index
             System.out.println(
